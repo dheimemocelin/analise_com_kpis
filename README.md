@@ -19,7 +19,7 @@
 * Vendas por gerente ao ano
 
 **KPI's**
-* Ticket Médio *É um indicador de performance de vendas, representa o valor gasto em uma compra*
-* Posiitivação *Positivação representa a quantidade distinta de produtos que eu vendi*
-* Margem de contribuição  *É receita de vendas de uma empresa menos seus custos variáveis. Ela, que aparece em porcentagem, pode ser apresentada como valor total*
-* ROI *Retorno Sobre o Investimento. Esta é uma métrica usada para saber quanto a empresa ganhou com investimentos.*
+* Ticket Médio --> *É um indicador de performance de vendas, representa o valor gasto em uma compra*
+* Posiitivação --> *Positivação representa a quantidade distinta de produtos que eu vendi*
+* Margem de contribuição -->  *É receita de vendas de uma empresa menos seus custos variáveis. Ela, que aparece em porcentagem, pode ser apresentada como valor total*
+* ROI --> *Retorno Sobre o Investimento. Esta é uma métrica usada para saber quanto a empresa ganhou com investimentos.*
